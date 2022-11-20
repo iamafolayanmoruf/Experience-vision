@@ -1,0 +1,57 @@
+/* Author:Afolayan Moruf
+Github:iamafolayanmoruf
+Twitter:Kakamoruye1 */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container img{
+    width: 210px;
+}
+#nav-one{
+    background:rgb(255, 255, 255) ;
+    box-shadow: 0px 4px 4px rgb(0 0 0/15%);
+}
+.container{
+    height: 58px;
+}
+#navbarTogglerDemo03 ul li {
+    display: inline;
+    margin: 15px;
+}
+#navbarTogglerDemo03  a{
+    text-decoration: none;
+    font-size: 16px;
+    color: black;
+}
+#navbarTogglerDemo03 a:hover{
+    color: rgb(237, 126, 44);
+}
+section{
+    height: 100vh;
+    background: rgb(255, 249, 245);
+}
+#two h2{
+    padding-top: 260px;
+    font-size: 40px;
+    font-weight: 700;
+}
+#two img{
+    width: 120%;
+    height: auto;
+    
+
+}
+#two p{
+    width: 90%;
+    font-size: 15px;
+}
+.flexx{
+    display: flex !important;
+}
+.grid{
+    display: flex;
+}
+
+
